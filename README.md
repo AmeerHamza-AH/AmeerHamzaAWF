@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmeerHamzaAWF
 - 👀 I’m interested in Full Stack BackEnd Developer
-- 🌱 I’m currently learning Laravel 8
+- 🌱 I’m currently learning Laravel 9
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
