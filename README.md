@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Software Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameerhamzaawf&label=Profile%20views&color=0e75b6&style=flat" alt="ameerhamzaawf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameerhamzaawf" alt="ameerhamzaawf" /></a> </p>![download](https://user-images.githubusercontent.com/98511209/179346854-beb03d36-c4b4-4357-a29f-0f81e382d141.jpg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameerhamzaawf" alt="ameerhamzaawf" /></a> </p>
 
 
 <p align="left"> <a href="https://twitter.com/@ameerhamzaconet" target="blank"><img src="https://img.shields.io/twitter/follow/@ameerhamzaconet?logo=twitter&style=for-the-badge" alt="@ameerhamzaconet" /></a> </p>
